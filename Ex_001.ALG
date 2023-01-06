@@ -1,15 +1,14 @@
 Algoritmo "Ex_001"
-// FaÁa um algoritmo que receba dois n˙meros inteiros e exiba sua soma.
+// Fa√ßa um algoritmo que receba dois n√∫meros inteiros e exiba sua soma.
 
 Var
-   // Declare duas vari·veis para receber os valores e uma para o resultado
-
+   // Declare duas vari√°veis para receber os valores e uma para o resultado
 
 Inicio
-  // FaÁa a atribuiÁ„o das vari·veis (pode ser de forma fixa)
+  // Fa√ßa a atribui√ß√£o das vari√°veis (pode ser de forma fixa)
   
-  // Efetue o c·lculo atribuindo o resultado na ˙ltima vari·vel
+  // Efetue o c√°lculo atribuindo o resultado na √∫ltima vari√°vel
   
-  // Escreva na tela o valor da vari·vel com o resultado.
+  // Escreva na tela o valor da vari√°vel com o resultado.
 
 Fimalgoritmo
