@@ -11,4 +11,6 @@ Inicio
   
   // Escreva na tela o valor da variável com o resultado.
 
+  // oto comentário
+
 Fimalgoritmo
